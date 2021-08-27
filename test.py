@@ -6,4 +6,5 @@ def somme ():
     b=float(b)
     s=a+b
     print("la somme entre {} et {} donne {} ".format(a,b,s))
+    print("merci d'avoir tester mon code ")
 somme()
